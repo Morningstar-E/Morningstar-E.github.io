@@ -1,6 +1,6 @@
 # Morningstar-E.github.io
 Godwin Felicidario Fernandes
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Electric Guitars and Amplifiers (Everything about it)
 Hi, this is a website I made dedicated to give information on Guitars, Amplifiers, Pedals, and how to play the guitar. I love playing the guitar and learning new songs to play, I felt like making a dedicated website to show my appreciation to guitars. If you're just starting out and you want to learn the guitar, this is just the site for you, I highly recommend to please check the bottom part of the page.
 
@@ -8,7 +8,7 @@ Hi, this is a website I made dedicated to give information on Guitars, Amplifier
 
 # What is a Guitar?
 
-I'm sure most of you already knows what a Guitar is and even knows how to play it but incase you don't know and is wondering, it's a type of instrument that utilizes strings and frets. It usually includes six strings but some models has 7, 8 and even 12. The guitar is classified as a chordophone, meaning the sound is produced by a vibrating string stretched between two fixed points. 
+I'm sure most of you already knows what a Guitar is and even know how to play it but incase you don't know and is wondering, it's a type of instrument that utilizes strings and frets. It usually includes six strings but some models have 7, 8 and even 12. The guitar is classified as a chordophone, meaning the sound is produced by a vibrating string stretched between two fixed points. 
 
 ![Guitar 1](https://seagullguitars.com/wp-content/uploads/2020/06/7-the-new-artist-mosaic-ch-cw-bourbonburst-1470x525-1.jpeg)
 
@@ -20,19 +20,19 @@ I'm sure most of you already knows what a Guitar is and even knows how to play i
 
 ## Strings
 
-The main part of the guitar is it's strings without it how would you hear the music. You can change the strings on your guitar as long as it's a string, steel guitar strings were introduced near the end of the nineteenth century in the United States, nylon strings came in the 1940s. There are three main types of modern guitar: the classical guitar (Spanish guitar/nylon-string guitar) the steel-string acoustic guitar or electric guitar. The comfortability and tone also depends on the type of strings you use.
+The main part of the guitar is it's strings without it, how would you hear the music? You can change the strings on your guitar as long as it's a string, steel guitar strings were introduced near the end of the nineteenth century in the United States, nylon strings came in the 1940s. There are three main types of modern guitar: the classical guitar (Spanish guitar/nylon-string guitar) the steel-string acoustic guitar or electric guitar. The comfortability and tone also depends on the type of strings you use.
 
 ### Guitar Strings Guide
   <iframe width="650" height="300" src="https://www.youtube.com/embed/etYmve1EIWU?si=MSqKPV1E9XHgo8oB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Types of Guitars
 
 ![Guitars](https://guitaristnextdoor.com/wp-content/uploads/2023/09/maple-rosewood-fretboards-hanging-guitars.jpg)
 
 ## Acoustic Guitar
-Acoustic guitar is the most well-known type of guitar. It doesn't require an amplifier and can amplify its volume with the big hole on it. The downside to using an acoustic guitar is its steel strings and its unchangeable tone, your hand will get accustomed to the steel strings over time but don't overdo it, your fingers will get a cut.
+Acoustic guitar is the most well-known type of guitar. It doesn't require an amplifier and can amplify its volume with the big hole on it. The downside to using an acoustic guitar is its steel strings and its unchangeable tone, your hand will get accustomed to the steel strings over time but don't overdo it, your fingers will get cut.
 
 ![Acoustic](https://cdn.mos.cms.futurecdn.net/qDEs6xt2aX5eDtiLFTFYm7.jpg)
 ## Electric Acoustic
@@ -59,7 +59,7 @@ The Les Paul is a chunkier, heavier type of guitar than a Stratocaster. It's a t
 The Fender Stratocaster otherwise known as the Stratocaster is a type of Electric Guitar, it's known for its incredible versatility and for its iconic model that shaped the base and standard of electric guitars. It has 5 changebale tone types, built in volume and tone adjuster giving you more options. It's incredibly smooth to play on due to how close the strings are to the fret board and it feels great to glide over it. I recommend it if you're looking for your very first electric guitar. Unlike the telecaster or Lespaul it's lightweight so it's easy to carry around. I myself own one, its brand is Thomson, and the only guitar I own as of now.
 
 ![Stratocaster](https://www.vintageandrareguitars.com/cdn/shop/products/1960-Fender-Stratocaster-Sunburst-14_9fb9ebb4-5125-4200-830c-96103a4acb6f.jpg?v=1653481116)
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Amplifiers and Pedals
 
 
