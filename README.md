@@ -1,7 +1,39 @@
 # Morningstar-E.github.io
 Godwin Felicidario Fernandes
+
 # Electric Guitars and Amplifiers (Everything about it)
-Website dedicated to give information on Guitars, Amplifiers, Pedals, and how to play the guitar. 
+Hi, this is a website I made dedicated to give information on Guitars, Amplifiers, Pedals, and how to play the guitar. I love playing the guitar and learning new songs to play, I felt like making a dedicated website to show my appreciation to guitars. If you're just starting out and you want to learn the guitar, this is just the site for you, I highly recommend to please check the bottom part of the page.
+
+![Awe](https://pop.h-cdn.co/assets/16/21/2048x1371/gallery-1464183649-gettyimages-88617505.jpg)
+
+# What is a Guitar?
+
+I'm sure most of you already knows what a Guitar is and even knows how to play it but incase you don't know and is wondering, it's a type of instrument that utilizes strings and frets. It usually includes six strings but some models has 7, 8 and even 12. The guitar is classified as a chordophone, meaning the sound is produced by a vibrating string stretched between two fixed points. 
+
+![Guitar 1](https://seagullguitars.com/wp-content/uploads/2020/06/7-the-new-artist-mosaic-ch-cw-bourbonburst-1470x525-1.jpeg)
+
+## Brief History of the Electric Guitar
+
+### Click the Image to redirect to the video!
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/WbGVi_r7N4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=WbGVi_r7N4s)
+
+## Strings
+
+The main part of the guitar is it's strings without it how would you hear the music. You can change the strings on your guitar as long as it's a string, steel guitar strings were introduced near the end of the nineteenth century in the United States, nylon strings came in the 1940s. There are three main types of modern guitar: the classical guitar (Spanish guitar/nylon-string guitar) the steel-string acoustic guitar or electric guitar. The comfortability and tone also depends on the type of strings you use.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/etYmve1EIWU?si=MSqKPV1E9XHgo8oB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![Strings](https://insounder.org/sites/default/files/styles/fb_1200_x_630/public/Jak%20si%20vybrat%20struny%20na%20akustickou%20kytaru.jpg?itok=PTrAro1I)
+
+##
+
+## Fingerstyle, Picking, Hybrid...which is better?
+
+There are 3 styles to strum the guitar, there's the fingerstyle, using the pick or the hybrid picking. Fingerstyle utilizes your fingers but comes at the cost of speed and pain(I use fingerstyle), The Pick style uses a guitar pick either plastic or steel, it's a bit tricky to use due to how less control you have over it compared to the fingerstyle but once mastered you can play the guitar faster than fingerstyle and it comes with less pain to use. The Hybrid picking is a mix of using the Pick and Fingerstyle, you use the pick and strum while the rest of your fingers also strums to utilize all the strings, Polyphia's lead is played with hybrid picking. There are two types of guitar players, the rythm and the lead, the lead focuses more on chords and the lead focuses more on tabs.
+
+![Styles](https://upload.wikimedia.org/wikipedia/commons/3/3b/Al_Di_Meola_guitar_in_Utrecht%2C_Netherlands.jpg)
+
 # Types of Guitars
 
 ![Guitars](https://guitaristnextdoor.com/wp-content/uploads/2023/09/maple-rosewood-fretboards-hanging-guitars.jpg)
@@ -48,7 +80,7 @@ Pedals are optional for playing the electric guitar but make it a whole lot bett
 ![Pedal](https://github.com/Morningstar-E/Morningstar-E.github.io/assets/151593488/463ffbcf-d82c-48bc-b28c-7b3f3b176c2c)
 
 ## Learning the Guitar
-If you have a guitar and amplifier or an acoustic guitar, you can visit the Ultimate Guitar Tabs or download the app on your phone, the site/app offers lessons on the guitar and tips. In the site/app, you can find Tabs of songs wherein it's as the music sheet notes, it's pretty self-explanatory, some song tabs are free but some are locked behind the paywall. This is where I started out learning the guitar by myself and still where I can find how to play songs I want to play. It also includes two types of tuner on the app.
+If you have a guitar and want to learn how to play by your own, you can visit the Ultimate Guitar Tabs or download the app on your phone, the site/app offers lessons on the guitar and tips. In the site/app, you can find Tabs of songs wherein it's as the music sheet notes, it's pretty self-explanatory, some song tabs are free but some are locked behind the paywall. This is where I started out learning the guitar by myself and still where I can find how to play songs I want to play. The app includes a ton of tabs or chord sheets made by users and the writes themselves, it has 2 types of tuners, types of tabs for the Ukelele, Bass and anything related to string type instruments.
 
 ### Link to the site: https://www.ultimate-guitar.com/
 ![Guitar Tabs](https://cdn-www.bluestacks.com/bs-images/featured_com.ultimateguitar.tabs.jpg)
