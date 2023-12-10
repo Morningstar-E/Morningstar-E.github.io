@@ -65,6 +65,7 @@ The Fender Stratocaster otherwise known as the Stratocaster is a type of Electri
 
 # Amplifiers and Pedals
 
+
 ## Amplifier
 The amplifier is essentially what amplifies your guitar volume, without it your electric guitar is useless, it's what gives it its tone, distortion, bass, and other things. You might as well get an acoustic guitar. Amplifiers have different settings wherein you can change your guitar's pickup like the low tone, mid tone, high tone, bass, gain, and volume. Though amplifiers have different settings and some have features that others don't, the only thing that is common with all of them is the fact that they will amplify your guitar's volume and set the tone for it. 
 
