@@ -27,7 +27,7 @@ The main part of the guitar is it's strings without it how would you hear the mu
    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-![Strings](https://insounder.org/sites/default/files/styles/fb_900_x_630/public/Jak%20si%20vybrat%20struny%20na%20akustickou%20kytaru.jpg?itok=PTrAro1I)
+![Strings](https://insounder.org/sites/default/files/styles/fb_900_x_800/public/Jak%20si%20vybrat%20struny%20na%20akustickou%20kytaru.jpg?itok=PTrAro1I)
 
 
 # Types of Guitars
