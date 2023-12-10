@@ -23,11 +23,11 @@ I'm sure most of you already knows what a Guitar is and even knows how to play i
 The main part of the guitar is it's strings without it how would you hear the music. You can change the strings on your guitar as long as it's a string, steel guitar strings were introduced near the end of the nineteenth century in the United States, nylon strings came in the 1940s. There are three main types of modern guitar: the classical guitar (Spanish guitar/nylon-string guitar) the steel-string acoustic guitar or electric guitar. The comfortability and tone also depends on the type of strings you use.
 
 ### Guitar Strings Guide
-  <iframe width="1200" height="630" src="https://www.youtube.com/embed/etYmve1EIWU?si=MSqKPV1E9XHgo8oB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  <iframe width="900" height="630" src="https://www.youtube.com/embed/etYmve1EIWU?si=MSqKPV1E9XHgo8oB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-![Strings](https://insounder.org/sites/default/files/styles/fb_900_x_800/public/Jak%20si%20vybrat%20struny%20na%20akustickou%20kytaru.jpg?itok=PTrAro1I)
+![Strings]()(https://insounder.org/sites/default/files/styles/fb_900_x_800/public/Jak%20si%20vybrat%20struny%20na%20akustickou%20kytaru.jpg?itok=PTrAro1I)
 
 
 # Types of Guitars
